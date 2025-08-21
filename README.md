@@ -24,19 +24,21 @@ Admins can manage users and stores, owners can see ratings for their stores, and
 ---
 
 ## 📂 Project Structure
+```text
 rating-system/
 ├─ backend/
-│ ├─ models/
-│ ├─ routes/
-│ ├─ config/
-│ ├─ server.js
-│ └─ package.json
+│  ├─ models/
+│  ├─ routes/
+│  ├─ config/
+│  ├─ server.js
+│  └─ package.json
 ├─ frontend/
-│ ├─ src/
-│ ├─ public/
-│ └─ package.json
+│  ├─ src/
+│  ├─ public/
+│  └─ package.json
 ├─ .gitignore
 └─ README.md
+
 
 ---
 
