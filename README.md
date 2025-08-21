@@ -21,6 +21,18 @@ Admins can manage users and stores, owners can see ratings for their stores, and
 - Password update for owners  
 - Responsive UI using Tailwind CSS  
 
+## ⚡ Screenshots
+### Admin Dashboard
+![image alt](https://github.com/sattunikam/Rating-System/blob/0fc540ac219fc5e66cb81c7ebf41a93a0c1c1c02/Screenshot%202025-08-21%20212919.png)
+
+### Owner Dashboard
+![image alt](https://github.com/sattunikam/Rating-System/blob/0fc540ac219fc5e66cb81c7ebf41a93a0c1c1c02/Screenshot%202025-08-21%20212919.png)
+
+### Owner Dashboard
+![image alt](https://github.com/sattunikam/Rating-System/blob/0fc540ac219fc5e66cb81c7ebf41a93a0c1c1c02/Screenshot%202025-08-21%20212919.png)
+
+### User Rating Page
+![image alt](https://github.com/sattunikam/Rating-System/blob/0fc540ac219fc5e66cb81c7ebf41a93a0c1c1c02/Screenshot%202025-08-21%20212919.png)
 ---
 
 ## 📂 Project Structure
@@ -38,21 +50,6 @@ rating-system/
 │  └─ package.json
 ├─ .gitignore
 └─ README.md
-
-
----
-
-## ⚡ Screenshots
-
-### Admin Dashboard
-![Admin Dashboard](./screenshots/admin_dashboard.png)
-![image alt](https://github.com/sattunikam/Rating-System/blob/0fc540ac219fc5e66cb81c7ebf41a93a0c1c1c02/Screenshot%202025-08-21%20212919.png)
-
-### Owner Dashboard
-![Owner Dashboard](./screenshots/owner_dashboard.png)
-
-### User Rating Page
-![User Rating](./screenshots/user_rating.png)
 
 
 ---
