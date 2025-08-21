@@ -46,6 +46,7 @@ rating-system/
 
 ### Admin Dashboard
 ![Admin Dashboard](./screenshots/admin_dashboard.png)
+<img width="1914" height="1136" alt="Image" src="https://github.com/user-attachments/assets/5a8565d2-1706-4c84-aa89-5bb27482806f" />
 
 ### Owner Dashboard
 ![Owner Dashboard](./screenshots/owner_dashboard.png)
