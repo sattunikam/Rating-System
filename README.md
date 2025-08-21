@@ -44,7 +44,6 @@ rating-system/
 
 ### Admin Dashboard
 ![Admin Dashboard](./screenshots/admin_dashboard.png)
-Screenshot 2025-08-21 212919.png
 
 ### Owner Dashboard
 ![Owner Dashboard](./screenshots/owner_dashboard.png)
