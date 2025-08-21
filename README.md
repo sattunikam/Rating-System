@@ -25,14 +25,15 @@ Admins can manage users and stores, owners can see ratings for their stores, and
 ### Admin Dashboard
 ![image alt](https://github.com/sattunikam/Rating-System/blob/0fc540ac219fc5e66cb81c7ebf41a93a0c1c1c02/Screenshot%202025-08-21%20212919.png)
 
-### Owner Dashboard
-![image alt](https://github.com/sattunikam/Rating-System/blob/0fc540ac219fc5e66cb81c7ebf41a93a0c1c1c02/Screenshot%202025-08-21%20212919.png)
+### User Dashboard
+![image alt](https://github.com/sattunikam/Rating-System/blob/127fd43679b93d717d8615cf81a454263c3a032f/Screenshot%202025-08-21%20213018.png)
 
 ### Owner Dashboard
-![image alt](https://github.com/sattunikam/Rating-System/blob/0fc540ac219fc5e66cb81c7ebf41a93a0c1c1c02/Screenshot%202025-08-21%20212919.png)
+![image alt](https://github.com/sattunikam/Rating-System/blob/65bad2d8af4f425fac13f5af2d17bf22b9d87aa1/Screenshot%202025-08-21%20223552.png)
 
 ### User Rating Page
-![image alt](https://github.com/sattunikam/Rating-System/blob/0fc540ac219fc5e66cb81c7ebf41a93a0c1c1c02/Screenshot%202025-08-21%20212919.png)
+![image alt](https://github.com/sattunikam/Rating-System/blob/dce5dd2208a0d90fd532241ac21565c2240143f5/Screenshot%202025-08-21%20213042.png)
+
 ---
 
 ## 📂 Project Structure
